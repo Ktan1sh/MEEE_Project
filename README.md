@@ -4,6 +4,9 @@ This repository contains the firmware and supporting software for a drone-mounta
 designed for airborne acoustic research. The system collects synchronised telemetry and environmental data
 and supports remote acoustic actuation for controlled experiments.
 
+![Basic Architecture](docs/Block Diagram/System Basic Architecutre.png)
+
+![System Architecture](docs/Block Diagram/System Architecture.png)
 
 ## Features
 
