@@ -9,7 +9,7 @@ and supports remote acoustic actuation for controlled experiments.
 
 - GPS-based positioning and time-aware telemetry.
 - IMU, pressure, temperature and humidity sensing.
-- Remote acoustic actuation using a solenoid-driven CO_2 release mechanism.
+- Remote acoustic actuation using a solenoid-driven CO2 cartridge release mechanism.
 - Ground side logging support.
 
 
@@ -28,6 +28,10 @@ and supports remote acoustic actuation for controlled experiments.
 
 - `firmware/` - contains code for the aerial platform.
 - `ground_station/` - contains code for receiver and logger.
+- `docs/` - contains photographs and schemetics.
+- `data/` - contains test output.
 
+
+![Project Photo](docs/project_photo/Project.png)
 
 
