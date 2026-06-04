@@ -6,7 +6,7 @@ and supports remote acoustic actuation for controlled experiments.
 
 ![Basic Architecture](docs/Block Diagram/System Architecture.png)
 
-![System Architecture](docs/Block_Diagram/SystemArchitecture.png)
+![System Architecture](docs/Block_Diagram/SystemArchitecture.png
 
 ## Features
 
