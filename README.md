@@ -1,5 +1,4 @@
 # **Aerial Platform for Acoustics Research**
----
 
 This repository contains the firmware and supporting software for a drone-mountable embedded platform
 designed for airborne acoustic research. The system collects synchronised telemetry and environmental data
@@ -7,7 +6,6 @@ and supports remote acoustic actuation for controlled experiments.
 
 
 ## Features
----
 
 - GPS-based positioning and time-aware telemetry.
 - IMU, pressure, temperature and humidity sensing.
@@ -16,7 +14,6 @@ and supports remote acoustic actuation for controlled experiments.
 
 
 ## Hardware
----
 
 - Arduino Nano ESP32
 - Seeed Studio Grove GPS Air 530
@@ -28,10 +25,9 @@ and supports remote acoustic actuation for controlled experiments.
 
 
 ## Reporitory Structure
----
 
-- `firmware/` -- contains code for the aerial platform.
-- `ground_station/' -- contains code for receiver and logger.
+- `firmware/` - contains code for the aerial platform.
+- `ground_station/` - contains code for receiver and logger.
 
 
 
